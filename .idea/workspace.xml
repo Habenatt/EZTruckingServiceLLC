@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c5b75e8-0be3-441e-b519-f5de2050365f" name="Changes" comment="final project Submitted!!!!" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Original" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="24TPBBKrObev5KuDbCZyiqdVVRc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/" value="MariaDB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\haben Documents\PER SCHOLAS\Case Study\casestudyFInalProject2\src\main\webapp\pub\images" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Case Study\casestudyFInalProject2\src\main\webapp\WEB-INF\jsp\admin" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Case Study\casestudyFInalProject2\src\main\webapp\WEB-INF\jsp\login" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Repositaries\casestudy\src\main\webapp\pub" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Repositaries\casestudy\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\haben Documents\PER SCHOLAS\Case Study\casestudyFInalProject2\src\main\webapp\WEB-INF\jsp\driver" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Repositaries\casestudy\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Repositaries\casestudy\src\main\webapp\pub" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Repositaries\casestudy\src\main\resources\templates" />
+      <recent name="D:\haben Documents\PER SCHOLAS\Repositaries\casestudy\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="perscholas.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CasestudyApplication (2)">
+    <configuration name="CasestudyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perscholas.CasestudyApplication" />
+      <module name="casestudyFInalProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="perscholas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAOTest.testSaveNewProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="casestudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="perscholas.daotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="perscholas.daotest" />
+      <option name="MAIN_CLASS_NAME" value="perscholas.daotest.UserDAOTest" />
+      <option name="METHOD_NAME" value="testSaveNewProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasestudyApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="casestudyFInalProject2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="perscholas.CasestudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasestudyApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EZTruckingServiceLLC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="perscholas.CasestudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasestudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EZTruckingServiceLLC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="perscholas.CasestudyApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDAOTest.testSaveNewProduct" />
+        <item itemvalue="Application.CasestudyApplication" />
+        <item itemvalue="JUnit.UserDAOTest.testSaveNewProduct" />
+        <item itemvalue="Application.CasestudyApplication" />
+        <item itemvalue="JUnit.UserDAOTest.testSaveNewProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Registration commit!">
+      <created>1643650108731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643650108731</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c5b75e8-0be3-441e-b519-f5de2050365f" name="Changes" comment="Registration commit!" />
+      <created>1643651502508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643651502508</updated>
+      <workItem from="1643651511033" duration="23138000" />
+      <workItem from="1643742684039" duration="832000" />
+      <workItem from="1643743586890" duration="22670000" />
+      <workItem from="1643898767632" duration="78965000" />
+      <workItem from="1644421243865" duration="19087000" />
+      <workItem from="1644523703068" duration="72675000" />
+      <workItem from="1645058182041" duration="37562000" />
+      <workItem from="1645205742614" duration="89644000" />
+      <workItem from="1645801303598" duration="20782000" />
+      <workItem from="1646058829943" duration="29975000" />
+      <workItem from="1646148383488" duration="881000" />
+      <workItem from="1646151197478" duration="50239000" />
+      <workItem from="1646401445069" duration="10842000" />
+      <workItem from="1646417915529" duration="118568000" />
+      <workItem from="1646929304256" duration="5437000" />
+      <workItem from="1647018404989" duration="534000" />
+    </task>
+    <task id="LOCAL-00002" summary="Casestudy commit!">
+      <created>1643652075397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643652075397</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Case study commit!">
+      <created>1643652366456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643652366457</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Case study1 commit!">
+      <created>1643652793484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643652793484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Case study1 commit!">
+      <created>1643653297794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643653297794</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Case study1 commit!">
+      <created>1643653388356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643653388356</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Case study1 commit!">
+      <created>1643729243481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643729243620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Case study commit2!">
+      <created>1643730259187</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643730259187</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Case study commit2!">
+      <created>1643732664250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643732664250</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Case study commit4!">
+      <created>1643899655325</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643899655325</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Case study commit4!">
+      <created>1643899723963</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1643899723963</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Case study commit4!">
+      <created>1643903863634</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1643903863634</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Case study commit5!">
+      <created>1644007858253</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1644007858253</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Case study commit6!">
+      <created>1644244951818</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1644244951818</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Case study commit7!">
+      <created>1644265812954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1644265812954</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Case study commit7!">
+      <created>1644265947908</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1644265947908</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Spring Security commit1!">
+      <created>1644266846315</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1644266846315</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final project commit1!">
+      <created>1644958370615</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1644958370615</updated>
+    </task>
+    <task id="LOCAL-00019" summary="final project commit2!">
+      <created>1646406285708</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1646406285709</updated>
+    </task>
+    <task id="LOCAL-00020" summary="final project presented commit2!">
+      <created>1646856499207</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1646856499207</updated>
+    </task>
+    <task id="LOCAL-00021" summary="final project presented commit3!">
+      <created>1646930779921</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1646930779921</updated>
+    </task>
+    <task id="LOCAL-00022" summary="final project Submitted!!!!">
+      <created>1647014037537</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1647014037537</updated>
+    </task>
+    <task id="LOCAL-00023" summary="final project Submitted!!!!">
+      <created>1647014873672</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1647014873672</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="updated" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Registration commit!" />
+    <MESSAGE value="Casestudy commit!" />
+    <MESSAGE value="Case study commit!" />
+    <MESSAGE value="Case study1 commit!" />
+    <MESSAGE value="Case study commit2!" />
+    <MESSAGE value="Case study commit4!" />
+    <MESSAGE value="Case study commit5!" />
+    <MESSAGE value="Case study commit6!" />
+    <MESSAGE value="Case study commit7!" />
+    <MESSAGE value="Spring Security commit1!" />
+    <MESSAGE value="final project commit1!" />
+    <MESSAGE value="final project commit2!" />
+    <MESSAGE value="final project presented commit2!" />
+    <MESSAGE value="final project presented commit3!" />
+    <MESSAGE value="final project Submitted!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project Submitted!!!!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.validation.UnexpectedTypeException" package="javax.validation" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.tool.schema.spi.SchemaManagementException" package="org.hibernate.tool.schema.spi" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.persistence.PersistenceException" package="javax.persistence" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.data.mapping.PropertyReferenceException" package="org.springframework.data.mapping" />
+          <option name="timeStamp" value="24" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/perscholas/form/EmployeeRegistrationFormBean.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration/registerDriver.jsp</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration/registerDriver.jsp</url>
+          <line>97</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration/registerDriver.jsp</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/include/employeeHeader.jsp</url>
+          <line>133</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/perscholas/controller/RegistrationController.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/driver/driverHomePage.jsp</url>
+          <line>43</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration/registerTruck.jsp</url>
+          <line>8</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((SchemaManagementException)SchemaManagementException11961_DebugLabel).detailMessage" custom="org.hibernate.tool.schema.spi.SchemaManagementException" />
+        <watch expression="table.name" language="JAVA" />
+        <watch expression="table.name" language="JAVA" />
+        <watch expression="table.name" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

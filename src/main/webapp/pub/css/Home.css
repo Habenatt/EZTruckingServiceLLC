@@ -1,0 +1,416 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+body, html{
+    margin: 0;
+    padding: 0;
+
+    background: linear-gradient(to left, rgb(139, 124, 173), rgba(5, 167, 113, 0.5));
+
+}
+strong{
+    font-family: "Audiowide", sans-serif;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif
+
+}
+a{
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+p a:hover{
+    color: red;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+.navbar {
+    overflow: hidden;
+    background-color: rgb(9, 165, 185, 0.2);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+h2:before{
+    content: 'Expreinced Drivers!';
+    font-size: 200%;
+
+    animation-name: head;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes head {
+    0% {font-size:200%; opacity:1;}
+    25% {font-size:150%; opacity:0;}
+    50% {font-size:200%; opacity:1; content: "Ready Trucks!!";}
+    65% {font-size:150%; opacity:0;}
+    80% {font-size:200%; opacity:1; content: " Customer Service"}
+    90% {font-size:150%; opacity:0;}
+    100% {font-size:200%;opacity:1; content: "Please Call Us!!!!"}
+}
+.navbar a {
+    float: left;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+}
+
+.dropdown1{
+
+    overflow:visible;
+
+}
+
+.dropdown1 .dropbtn {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 0px 0px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown1:hover .dropbtn {
+    background-color: #ddd;
+}
+
+.dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    overflow:visible;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 3px 3px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    overflow:visible;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown1:hover .dropdown-content {
+    display:block;
+}
+
+.navbar img:hover {
+    background-color:rgb(41, 123, 155, 0.2)
+}
+/****** this is for about html *******/
+
+.navbar {
+    overflow: hidden;
+    background-color: rgba(222, 240, 232, 0.2);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.navbar a {
+    float: left;
+    font-size: 25px;
+    color: rgb(135, 243, 243);
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+.column_box {
+    border: 2px solid;
+    border-color:black;
+    border-radius:10px;
+    overflow:hidden;
+
+}
+
+table.fixed { table-layout:fixed; }
+table.fixed td { overflow: hidden; }
+
+@font-face {
+    font-family: "CustomFont";
+    src: url("https://yoursite.com/css/fonts/CustomFont.eot");
+    src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
+    url("https://yoursite.com/css/fonts/CustomFont.otf") format("opentype"),
+    url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg");
+}
+
+.sfont{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#div {
+
+
+    animation: sk-chase 2.5s infinite linear both;
+
+    animation-name: example;
+    animation-duration: 40s;
+}
+
+@keyframes example {
+    from{color: rgb(5, 40, 117);}
+    to{color:rgb(243, 242, 237)}
+}
+
+.ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+}
+
+.ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+}
+
+.try{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h2 strong{
+    font-family: "Audiowide", sans-serif;
+}
+
+
+#slideshow {
+    overflow: hidden;
+    height: 510px;
+    width: 728px;
+    margin: 0 auto;
+}
+
+/* Style each of the sides
+with a fixed width and height */
+
+.slide {
+    float: left;
+    height: 510px;
+    width: 728px;
+}
+
+/* Add animation to the slides */
+
+.slide-wrapper {
+
+    /* Calculate the total width on the
+    basis of number of slides */
+    width: calc(728px * 6);
+
+
+    /* Specify the animation with the
+    duration and speed */
+    animation: slide 15s ease infinite;
+}
+
+/* Set the background color
+of each of the slides */
+
+.slide:nth-child(1) {
+    background: green;
+}
+
+.slide:nth-child(2) {
+    background-image: url("../../pub/images/truck_semi.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.slide:nth-child(3) {
+    background: darkgoldenrod;
+}
+
+.slide:nth-child(4) {
+    background: yellow;
+}
+.slide:nth-child(5) {
+    background: aquamarine;
+}
+.slide:nth-child(6) {
+    background: #C5A47E;
+}
+/* Define the animation
+for the slideshow */
+
+@keyframes slide {
+
+    /* Calculate the margin-left for
+    each of the slides */
+    15% {
+        margin-left: 0px;
+    }
+    30% {
+        margin-left: calc(-728px * 1);
+    }
+    45% {
+        margin-left: calc(-728px * 2);
+    }
+    60% {
+        margin-left: calc(-728px * 3);
+    }
+    75% {
+        margin-left: calc(-728px * 4);
+    }
+    90% {
+        margin-left: calc(-728px * 5);
+    }
+}
+
+@media only screen and (max-width: 1026px) {
+    #fadeshow1 {
+        displplay:none;
+    }
+}
+
+
+@media only screen and (max-width: 1026px) {
+    #fadeshow2 {
+        displplay:none;
+
+    }
+}
+
+@media only screen and (max-width: 1026px) {
+    #home2 {
+        display: none;
+    }
+}
+
+
+
+
+/*Side Bar Design*/
+
+
+
+
+ .sidenav {
+
+     height: 80%;
+     width: 75%;
+     position: fixed;
+     z-index: 1;
+     top: 120px;
+     left: 320px;
+     background-color: #f1f1f1;
+     overflow-x: hidden;
+     padding-top: 60px;
+ }
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    color: black;
+}
+.sidenav .closebtn:hover {
+    color: #ea0b0b;
+
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+
+
+
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 10.6%;
+    left: 0;
+    overflow-x: hidden;
+    background-color: #f1f1f1;
+    position: fixed;
+    overflow: auto;
+}
+
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+
+.sidebar a:hover{
+    background-color: #555;
+    color: white;
+}
+
+.sidebar button:hover{
+    background-color: #555;
+    color: white;
+}
+
+.sidebar input:hover{
+    background-color: #ffffff;
+    color: #050505;
+}
+
+div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+    .sidebar a {
+        text-align: center;
+        float: none;
+    }
+}
+
